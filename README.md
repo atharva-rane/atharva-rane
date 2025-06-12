@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atharva Rane 👋</h1>
-<h3 align="center">🎓 Computer Engineering Student | MERN Stack Developer</h3>
+<h3 align="center">🎓 Computer Engineering Student</h3>
 
 ---
 
