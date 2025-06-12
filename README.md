@@ -9,7 +9,7 @@
 - 🌱 Learning **Full Stack Web Development**
 - 👯 Looking to collaborate on **exciting development projects**
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atharvarane)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rane-atharva/)
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
 
 ---
@@ -55,7 +55,7 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharvarane">
+  <a href="https://www.linkedin.com/in/rane-atharva/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/atharvx_r">
