@@ -39,16 +39,17 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva-rane&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=atharva-rane&theme=radical" width="49%" />
-</p>
+### 🚀 Highlight Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-rane&layout=compact&theme=radical" width="40%" />
-</p>
+- 🎮 [Simon Says Game](https://atharva-rane.github.io/simon-says-game/)  
+  _A classic memory game where players repeat an increasingly complex sequence. Built using **HTML, CSS, and JavaScript**._
+
+- ☀️ [Weather App](https://atharva-rane.github.io/Weather-App/)  
+  _A responsive weather forecast app using **OpenWeatherMap API**, created with **HTML, CSS, and JavaScript**. Displays real-time temperature, humidity, and weather icons based on user input._
+
+> 👉 Explore more projects at [github.com/atharva-rane](https://github.com/atharva-rane?tab=repositories)
+
 
 ---
 
