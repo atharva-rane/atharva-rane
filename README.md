@@ -45,6 +45,9 @@
 - 🎮 [Simon Says Game](https://atharva-rane.github.io/simon-says-game/)  
   _A memory-based game where players repeat an expanding sequence. Built using **HTML**, **CSS**, and **JavaScript**._
 
+- 📝 [To-Do List App](https://atharva-rane.github.io/To-Do-List-App/)  
+  _An intuitive to-do list with **task management**, **delete**, and **persistent storage** using **localStorage**._
+
 - ☁️ [Weather App](https://atharva-rane.github.io/Weather-App/)  
   _A responsive app using the **OpenWeatherMap API** to display real-time weather, temperature & humidity based on user input._
 
