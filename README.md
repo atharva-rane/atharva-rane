@@ -1,74 +1,115 @@
-<h1 align="center">Hi, I'm Atharva Rane 👋</h1>
-<h3 align="center">🎓 Computer Engineer</h3>
+<!-- Header -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   atharva@dev:~$ whoami                              ║
+║   > Full Stack Developer · SAP ABAP · Cloud Deployer ║
+╚══════════════════════════════════════════════════════╝
+```
+
+# Atharva Vilas Rane
+
+**Building scalable full-stack systems · Exploring enterprise SAP ecosystems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rane-atharva/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raneatharva08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva-rane)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/atharvx_r)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-- 🔭 Currently building **MERN Stack Projects**
-- 🌱 Actively learning **Full Stack Web Development**
-- 🤝 Open to collaborations on exciting dev projects
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**
-- 📫 Connect via [LinkedIn](https://www.linkedin.com/in/rane-atharva/)
-- ☕ Fun fact: I turn coffee into code
+Computer Engineering graduate (Mumbai University, May 2026) with hands-on experience building and deploying full-stack web applications and enterprise SAP ABAP systems. I enjoy working across the stack — from designing REST APIs and MongoDB schemas to building responsive React interfaces and deploying on cloud platforms.
+
+Currently deepening expertise in **SAP ABAP** (Reports, ALV, BAPI, IDoc, CDS, Smart Forms, Enhancements) alongside **MERN stack** development.
 
 ---
 
-### 💻 Tech Stack
+## Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Languages**
+`Java` `C` `JavaScript` `SQL`
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Frontend**
+`React.js` `Next.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+**Backend & Database**
+`Node.js` `Express.js` `MongoDB` `MySQL`
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-00BFA6?style=flat&logo=hoppscotch&logoColor=white)
+**SAP**
+`ABAP Syntax` `Open SQL` `Data Dictionary (DDIC)` `Internal Tables` `SAP GUI`
 
+**Cloud & Tools**
+`AWS EC2` `AWS S3` `Vercel` `Git` `GitHub` `VS Code` `Hoppscotch`
 
 ---
 
-### 🚀 Highlight Projects
+## Projects
 
-- 🎮 [Simon Says Game](https://atharva-rane.github.io/simon-says-game/)  
-  _A memory-based game where players repeat an expanding sequence. Built using **HTML**, **CSS**, and **JavaScript**._
+### 🌿 [GreenBook — Carbon Credit Management Platform](https://greenbook-4zdp.vercel.app/)
+> Full-stack platform centralizing sustainability records for farmers
 
-- 📝 [To-Do List App](https://atharva-rane.github.io/To-Do-List-App/)  
-  _An intuitive to-do list with **task management**, **delete**, and **persistent storage** using **localStorage**._
+- Built with **React.js · Node.js · Express.js · MongoDB**, deployed on **Vercel**
+- Designed RESTful APIs for carbon footprint calculation and certification management
+- Engineered responsive UI improving data-entry efficiency and accessibility
 
-- ☁️ [Weather App](https://atharva-rane.github.io/Weather-App/)  
-  _A responsive app using the **OpenWeatherMap API** to display real-time weather, temperature & humidity based on user input._
-
-> 🔍 Explore more at [github.com/atharva-rane](https://github.com/atharva-rane?tab=repositories)
-
----
-
-### 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rane-atharva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/atharvx_r">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:raneatharva08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/atharva-rane/GREENBOOK)
+[![Live](https://img.shields.io/badge/Live-Demo-39D353?style=flat-square&logo=vercel&logoColor=white)](https://greenbook-4zdp.vercel.app/)
 
 ---
 
-<p align="center">Grateful for your visit! 🌟</p>
+### 🏥 Secure Cloud-Based Hospital Management System
+> Cryptographically secured medical records system on AWS
+
+- Implemented **Blowfish encryption** for data confidentiality and **SHA-3 hashing** for integrity verification
+- Integrated **Diffie-Hellman key exchange** for secure transmission-layer key distribution
+- Deployed on **AWS EC2 + S3** for scalable, cloud-native infrastructure
+
+---
+
+### ☁️ CloudVault — Cloud Storage Platform
+> Secure file upload, storage, and management system
+
+- Built responsive interface with **Next.js**, HTML, and CSS
+- Designed scalable architecture with efficient file organization and retrieval
+
+---
+
+### 🎮 Mini Projects
+| Project | Description | Live |
+|--------|-------------|------|
+| [Simon Says Game](https://atharva-rane.github.io/simon-says-game/) | Memory sequence game — HTML, CSS, JS | [▶ Play](https://atharva-rane.github.io/simon-says-game/) |
+| [To-Do List App](https://atharva-rane.github.io/To-Do-List-App/) | Task manager with localStorage persistence | [▶ Open](https://atharva-rane.github.io/To-Do-List-App/) |
+| [Weather App](https://atharva-rane.github.io/Weather-App/) | Real-time weather via OpenWeatherMap API | [▶ Open](https://atharva-rane.github.io/Weather-App/) |
+
+---
+
+## Certifications
+
+- 📘 **SAP ABAP Complete Guide** — Reports, ALV, BAPI, IDoc, CDS, AMDP, Smart & Adobe Forms, BDC, LSMW *(In Progress)*
+
+---
+
+## Achievements
+
+- 🥈 **2nd Prize** — Poster Presentation, Tech Spark Inter-College Technical Competition
+- 🎙️ **Anchoring Head**, Student Council — Led event hosting and stage coordination across college events
+
+---
+
+## Education
+
+**B.E. Computer Engineering** — Shivajirao S Jondhle College of Engineering & Technology *(Mumbai University)*
+`2022 – 2026` · CGPA: **7.50 / 10**
+
+---
+
+<div align="center">
+
+*Open to full-time roles and internships in Full Stack Development or SAP ABAP*
+
+</div>
