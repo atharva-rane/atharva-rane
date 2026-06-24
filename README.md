@@ -104,6 +104,6 @@ Currently deepening expertise in **SAP ABAP** (Reports, ALV, BAPI, IDoc, CDS, Sm
 
 <div align="center">
 
-*Open to full-time roles and internships in Full Stack Development or SAP ABAP*
+*Open to full-time roles and internships in SAP ABAP*
 
 </div>
