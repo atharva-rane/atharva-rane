@@ -1,12 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   atharva@dev:~$ whoami                              ║
-║   > Full Stack Developer · SAP ABAP · Cloud Deployer ║
-╚══════════════════════════════════════════════════════╝
-```
 
 # Atharva Vilas Rane
 
