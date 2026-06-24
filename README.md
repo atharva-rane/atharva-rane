@@ -17,7 +17,7 @@
 
 ## About
 
-Computer Engineering graduate (Mumbai University, May 2026) with hands-on experience building and deploying full-stack web applications and enterprise SAP ABAP systems. I enjoy working across the stack — from designing REST APIs and MongoDB schemas to building responsive React interfaces and deploying on cloud platforms.
+Computer Engineering graduate (Mumbai University, May 2026) with a growing focus on SAP ABAP development and hands-on experience building and deploying full-stack web applications. I have practical exposure to ABAP fundamentals including DDIC, internal tables, and report programming, and I am actively strengthening my skills in enterprise SAP systems.
 
 Currently deepening expertise in **SAP ABAP** (Reports, ALV, BAPI, IDoc, CDS, Smart Forms, Enhancements) alongside **MERN stack** development.
 
